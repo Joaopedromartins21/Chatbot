@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "/vercel/path0/node_modules/.bin/tsc && vite build"
     "start": "nodemon app.js"
   },
   "keywords": [],
